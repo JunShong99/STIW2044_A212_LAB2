@@ -280,7 +280,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
             shape: const RoundedRectangleBorder(
                 borderRadius: BorderRadius.all(Radius.circular(20.0))),
             title: const Text(
-              "Add this product",
+              "Add this picture",
               style: TextStyle(),
             ),
             content: const Text("Are you sure?", style: TextStyle()),
